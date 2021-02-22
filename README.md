@@ -16,4 +16,8 @@ The robot car environment:
 - Jetson Nano
 - STM32F103RCT6 motor controller
 - Ubuntu 18.04
-- ROS Melodic
+- ROS Melodi
+
+Here is the result video:
+
+[![result video](http://img.youtube.com/vi/-akiASGj5sI/1.jpg)](https://www.youtube.com/watch?v=-akiASGj5sI "Line Following")
